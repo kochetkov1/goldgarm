@@ -6,6 +6,7 @@ import stol2 from "../images/stol2.jpg";
 function Main() {
   return (
     <main className="content">
+      
       <section className="about">
         <h1 className="about__title">
           GOLD GARM – это брутальная мебель в духе свободы, практичности и
