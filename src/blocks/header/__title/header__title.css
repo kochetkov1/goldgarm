@@ -14,3 +14,9 @@
 .header__title:hover {
   opacity: 0.9;
 }
+
+@media screen and (max-width: 501px) {
+  .header__title {
+    font-size: 80px;
+  }
+}
