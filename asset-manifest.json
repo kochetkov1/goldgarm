@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goldgarm/static/css/main.02aebfde.css",
-    "main.js": "/goldgarm/static/js/main.d318a6d8.js",
+    "main.css": "/goldgarm/static/css/main.2cf052c8.css",
+    "main.js": "/goldgarm/static/js/main.40f09311.js",
     "static/js/787.75906862.chunk.js": "/goldgarm/static/js/787.75906862.chunk.js",
     "static/media/stol2.jpg": "/goldgarm/static/media/stol2.cdd3f846df34f71114fa.jpg",
     "static/media/Inter-Medium.woff": "/goldgarm/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
@@ -12,12 +12,12 @@
     "static/media/Inter-Regular.woff2": "/goldgarm/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
     "static/media/odins-spear.woff": "/goldgarm/static/media/odins-spear.be16ca79e5ea8beee44a.woff",
     "index.html": "/goldgarm/index.html",
-    "main.02aebfde.css.map": "/goldgarm/static/css/main.02aebfde.css.map",
-    "main.d318a6d8.js.map": "/goldgarm/static/js/main.d318a6d8.js.map",
+    "main.2cf052c8.css.map": "/goldgarm/static/css/main.2cf052c8.css.map",
+    "main.40f09311.js.map": "/goldgarm/static/js/main.40f09311.js.map",
     "787.75906862.chunk.js.map": "/goldgarm/static/js/787.75906862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02aebfde.css",
-    "static/js/main.d318a6d8.js"
+    "static/css/main.2cf052c8.css",
+    "static/js/main.40f09311.js"
   ]
 }
