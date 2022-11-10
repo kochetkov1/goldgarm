@@ -3,6 +3,7 @@ import React from "react";
 import Header from "./Header";
 import Main from "./Main";
 import Footer from "./Footer";
+import ProductsRoll from "./ProductsRoll";
 // import Сontacts from "./Сontacts";
 
 function App() {
@@ -12,6 +13,8 @@ function App() {
         <Header />
 
         <Main />
+
+        <ProductsRoll />
 
         <Footer />
       </div>
