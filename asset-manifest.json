@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goldgarm/static/css/main.1227f892.css",
-    "main.js": "/goldgarm/static/js/main.9e01b96a.js",
+    "main.js": "/goldgarm/static/js/main.c5f529e3.js",
     "static/js/787.75906862.chunk.js": "/goldgarm/static/js/787.75906862.chunk.js",
     "static/media/stol_c.jpg": "/goldgarm/static/media/stol_c.3702688068462b646ed2.jpg",
     "static/media/stol_a.jpg": "/goldgarm/static/media/stol_a.6df3e1ff44c27d54dee8.jpg",
@@ -18,11 +18,11 @@
     "static/media/odins-spear.woff": "/goldgarm/static/media/odins-spear.be16ca79e5ea8beee44a.woff",
     "index.html": "/goldgarm/index.html",
     "main.1227f892.css.map": "/goldgarm/static/css/main.1227f892.css.map",
-    "main.9e01b96a.js.map": "/goldgarm/static/js/main.9e01b96a.js.map",
+    "main.c5f529e3.js.map": "/goldgarm/static/js/main.c5f529e3.js.map",
     "787.75906862.chunk.js.map": "/goldgarm/static/js/787.75906862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1227f892.css",
-    "static/js/main.9e01b96a.js"
+    "static/js/main.c5f529e3.js"
   ]
 }
