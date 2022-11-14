@@ -1,11 +1,15 @@
-// import logo from "../images/header-logo.svg";
+import logo from "../images/header-logo.svg";
 import React from "react";
 
 function Header() {
 
   return (
     <header className="header">
-      <p className="header__title">Gold&nbsp;Garm</p>
+      <img
+        className="header__logo"
+        src={logo}
+        alt="GoldGarm"
+      />
     </header>
   );
 }

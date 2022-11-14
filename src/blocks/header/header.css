@@ -2,7 +2,7 @@
   max-width: 880px;
   width: 100%;
   margin: 0;
-  padding: 45px 0 0 0;
+  padding: 20px 0 0 0;
 
   display: flex;
   justify-content: center;
@@ -12,6 +12,6 @@
 
 @media screen and (max-width: 881px) {
   .header {
-    padding-top: 28px;
+    padding-top: 10px;
   }
 }

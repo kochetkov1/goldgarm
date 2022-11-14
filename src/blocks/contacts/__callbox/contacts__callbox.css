@@ -1,0 +1,6 @@
+.contacts__callbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
