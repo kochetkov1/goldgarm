@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goldgarm/static/css/main.1227f892.css",
-    "main.js": "/goldgarm/static/js/main.c5f529e3.js",
+    "main.css": "/goldgarm/static/css/main.98aed7b4.css",
+    "main.js": "/goldgarm/static/js/main.6f9b232a.js",
     "static/js/787.75906862.chunk.js": "/goldgarm/static/js/787.75906862.chunk.js",
     "static/media/stol_c.jpg": "/goldgarm/static/media/stol_c.3702688068462b646ed2.jpg",
     "static/media/stol_a.jpg": "/goldgarm/static/media/stol_a.6df3e1ff44c27d54dee8.jpg",
@@ -15,14 +15,18 @@
     "static/media/Inter-Black.woff2": "/goldgarm/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
     "static/media/stolik_b.jpg": "/goldgarm/static/media/stolik_b.6ee40be21cf3438386a3.jpg",
     "static/media/Inter-Regular.woff2": "/goldgarm/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/header-logo.svg": "/goldgarm/static/media/header-logo.f232ae962708b637d805b5e5c275b62b.svg",
     "static/media/odins-spear.woff": "/goldgarm/static/media/odins-spear.be16ca79e5ea8beee44a.woff",
+    "static/media/icon-viber.svg": "/goldgarm/static/media/icon-viber.3d48653392656e129ede6c2f40f1bb64.svg",
+    "static/media/icon-whatsapp.svg": "/goldgarm/static/media/icon-whatsapp.783c406be0063b0250ec3367122dbdcc.svg",
+    "static/media/icon-tg.svg": "/goldgarm/static/media/icon-tg.1e9b640bf9020ee3aa8445cbb67ac8e5.svg",
     "index.html": "/goldgarm/index.html",
-    "main.1227f892.css.map": "/goldgarm/static/css/main.1227f892.css.map",
-    "main.c5f529e3.js.map": "/goldgarm/static/js/main.c5f529e3.js.map",
+    "main.98aed7b4.css.map": "/goldgarm/static/css/main.98aed7b4.css.map",
+    "main.6f9b232a.js.map": "/goldgarm/static/js/main.6f9b232a.js.map",
     "787.75906862.chunk.js.map": "/goldgarm/static/js/787.75906862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1227f892.css",
-    "static/js/main.c5f529e3.js"
+    "static/css/main.98aed7b4.css",
+    "static/js/main.6f9b232a.js"
   ]
 }
