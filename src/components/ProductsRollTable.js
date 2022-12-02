@@ -56,7 +56,7 @@ const ProductsRoll = () => {
             display: "flex",
             alignItems: "center",
             justifyContent: 'center',
-            backgroundColor: '#000',
+            backgroundColor: '#333333',
             borderTop: '1px solid dimgray',
           }}
         >
@@ -66,7 +66,7 @@ const ProductsRoll = () => {
               font: "inherit",
               fontSize: 20,
               color: 'white',
-              backgroundColor: '#000',
+              backgroundColor: '#333333',
             }}
           >
             {MyCollection[index].label}
@@ -93,7 +93,7 @@ const ProductsRoll = () => {
           steps={CollectionSize}
           style={{
             borderBottom: '1px solid dimgray',
-            backgroundColor: '#000',
+            backgroundColor: '#333333',
           }}
 
           backButton={
@@ -133,7 +133,7 @@ const ProductsRoll = () => {
             font: "inherit",
             fontSize: 14,
             color: 'white',
-            backgroundColor: '#000',
+            backgroundColor: '#333333',
             borderBottom: '1px solid dimgray',
             paddingLeft: 10,
             paddingRight: 10,
