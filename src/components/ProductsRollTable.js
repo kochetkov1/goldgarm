@@ -13,15 +13,15 @@ import KeyboardArrowLeft from "@material-ui/icons/KeyboardArrowLeft";
 
 const MyCollection = [
   {
-    label: "Стол Zucchini",
+    label: "Письменый стол",
     imgPath: stol_a,
   },
   {
-    label: "Стол Zucchini",
+    label: "Письменый стол",
     imgPath: stol_b,
   },
   {
-    label: "Стол Zucchini",
+    label: "Письменый стол",
     imgPath: stol_c,
   },
 ];

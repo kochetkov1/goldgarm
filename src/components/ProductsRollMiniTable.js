@@ -12,11 +12,11 @@ import KeyboardArrowLeft from "@material-ui/icons/KeyboardArrowLeft";
 
 const MyCollection = [
   {
-    label: "Приставной стол Eggplant",
+    label: "Приставной стол",
     imgPath: stolik_a,
   },
   {
-    label: "Приставной стол Eggplant",
+    label: "Приставной стол",
     imgPath: stolik_b,
   },
 ];

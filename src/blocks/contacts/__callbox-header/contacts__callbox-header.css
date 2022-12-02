@@ -1,0 +1,14 @@
+.contacts__callbox-header {
+  min-width: 140px;
+}
+
+@media screen and (max-width: 881px) {
+  .contacts__callbox-header {
+    min-width: 90px;
+    margin-right: 10px;
+  }
+
+  .contacts__callbox-header:first-of-type {
+    min-width: 10px;
+  }
+}

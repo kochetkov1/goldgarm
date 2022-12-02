@@ -1,0 +1,9 @@
+.contacts__contact-header {
+  font-size: 12px;
+}
+
+@media screen and (max-width: 881px) {
+  .contacts__contact-header {
+    font-size: 8px;
+  }
+}
