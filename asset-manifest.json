@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goldgarm/static/css/main.f7fbb228.css",
+    "main.css": "/goldgarm/static/css/main.b27554cc.css",
     "main.js": "/goldgarm/static/js/main.aef071a9.js",
     "static/js/787.75906862.chunk.js": "/goldgarm/static/js/787.75906862.chunk.js",
     "static/media/stol_c.jpg": "/goldgarm/static/media/stol_c.3702688068462b646ed2.jpg",
@@ -21,12 +21,12 @@
     "static/media/icon-whatsapp.svg": "/goldgarm/static/media/icon-whatsapp.783c406be0063b0250ec3367122dbdcc.svg",
     "static/media/icon-tg.svg": "/goldgarm/static/media/icon-tg.1e9b640bf9020ee3aa8445cbb67ac8e5.svg",
     "index.html": "/goldgarm/index.html",
-    "main.f7fbb228.css.map": "/goldgarm/static/css/main.f7fbb228.css.map",
+    "main.b27554cc.css.map": "/goldgarm/static/css/main.b27554cc.css.map",
     "main.aef071a9.js.map": "/goldgarm/static/js/main.aef071a9.js.map",
     "787.75906862.chunk.js.map": "/goldgarm/static/js/787.75906862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7fbb228.css",
+    "static/css/main.b27554cc.css",
     "static/js/main.aef071a9.js"
   ]
 }
