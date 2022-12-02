@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goldgarm/static/css/main.454ffc6c.css",
-    "main.js": "/goldgarm/static/js/main.d66958f6.js",
+    "main.css": "/goldgarm/static/css/main.3e3c2c09.css",
+    "main.js": "/goldgarm/static/js/main.15010ee4.js",
     "static/js/787.75906862.chunk.js": "/goldgarm/static/js/787.75906862.chunk.js",
     "static/media/stol_c.jpg": "/goldgarm/static/media/stol_c.3702688068462b646ed2.jpg",
     "static/media/stol_a.jpg": "/goldgarm/static/media/stol_a.6df3e1ff44c27d54dee8.jpg",
@@ -21,12 +21,12 @@
     "static/media/icon-whatsapp.svg": "/goldgarm/static/media/icon-whatsapp.783c406be0063b0250ec3367122dbdcc.svg",
     "static/media/icon-tg.svg": "/goldgarm/static/media/icon-tg.1e9b640bf9020ee3aa8445cbb67ac8e5.svg",
     "index.html": "/goldgarm/index.html",
-    "main.454ffc6c.css.map": "/goldgarm/static/css/main.454ffc6c.css.map",
-    "main.d66958f6.js.map": "/goldgarm/static/js/main.d66958f6.js.map",
+    "main.3e3c2c09.css.map": "/goldgarm/static/css/main.3e3c2c09.css.map",
+    "main.15010ee4.js.map": "/goldgarm/static/js/main.15010ee4.js.map",
     "787.75906862.chunk.js.map": "/goldgarm/static/js/787.75906862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.454ffc6c.css",
-    "static/js/main.d66958f6.js"
+    "static/css/main.3e3c2c09.css",
+    "static/js/main.15010ee4.js"
   ]
 }
