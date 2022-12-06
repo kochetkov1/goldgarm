@@ -1,6 +1,8 @@
 # Проект: Лендинг для мебельной мастерской Gold Garm
 
-### _Ссылка:_ https://kochetkov1.github.io/goldgarm/
+### _Ссылка:_ https://goldgarm.ru/
+
+### _Ссылка (gh-pages):_ https://kochetkov1.github.io/goldgarm/
 ___
 ## Обзор
 
